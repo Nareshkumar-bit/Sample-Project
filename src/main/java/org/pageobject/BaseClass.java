@@ -10,6 +10,7 @@ public class BaseClass {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		System.out.println("master");
+		System.out.println("2nd update");
 	}
 
 }
